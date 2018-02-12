@@ -3634,3 +3634,5 @@ tutanota.de
 tutamail.com
 tuta.io
 keemail.me
+gmx.com
+gmx.us
