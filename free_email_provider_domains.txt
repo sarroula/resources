@@ -3638,3 +3638,5 @@ gmx.com
 gmx.us
 zoho.com
 zoho.eu
+rediffmail.com
+rediff.com
