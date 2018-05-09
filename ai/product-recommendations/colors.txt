@@ -1,4 +1,4 @@
-﻿Μαύρο,black
+Μαύρο,black
 Λευκό,white
 Καφέ,brown
 Γκρί,grey
