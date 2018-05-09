@@ -1,0 +1,14 @@
+﻿Αντρικα,male
+Αντρικής,male
+Ανδρικό,male
+Ανδρικής,male
+Man,male
+Men,male
+Παιδικό,kids
+Παιδική,kids
+Παιδικές,kids
+Παιδιά,kids
+Γυναικείο,female
+Γυναίκας,female
+Woman,female
+Unisex,neutral
