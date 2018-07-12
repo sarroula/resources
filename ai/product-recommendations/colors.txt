@@ -7,7 +7,7 @@
 Μπλε,blue
 Κίτρινο,yellow
 Γαλάζιο,blue
-Μοβ,purple
+Μωβ,purple
 Ροζ,pink
 Πορτοκαλί,orange
 Ασημί,silver
