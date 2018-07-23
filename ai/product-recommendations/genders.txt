@@ -8,6 +8,10 @@ Men,male
 Παιδική,kids
 Παιδικές,kids
 Παιδιά,kids
+Kids,kids
+Kid,kids
+Child,kids
+Children,kids
 Γυναικείο,female
 Γυναίκας,female
 Woman,female
