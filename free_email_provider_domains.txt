@@ -3738,3 +3738,4 @@ posteo.si
 posteo.tn
 posteo.uk
 posteo.us
+fastmail.com
