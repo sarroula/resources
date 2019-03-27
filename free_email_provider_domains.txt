@@ -3745,3 +3745,4 @@ libero.it
 rambler.ru
 autorambler.ru
 myrambler.ru
+naver.com
