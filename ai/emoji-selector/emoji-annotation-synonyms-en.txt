@@ -484,7 +484,7 @@
 🌅 => 🌅, sunrise
 🌇 => 🌇, dusk, sunset
 🌉 => 🌉, bridge
-🌌 => 🌌, milky way, space
+🌌 => 🌌, space
 🎠 => 🎠, carousel
 🎡 => 🎡, amusement park
 🎢 => 🎢, amusement park, coaster
