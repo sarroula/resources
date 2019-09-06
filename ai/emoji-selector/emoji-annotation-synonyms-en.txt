@@ -531,7 +531,8 @@
 ⛴ => ⛴, boat, ferry, passenger
 🛥 => 🛥, boat, motor boat, motorboat
 🚢 => 🚢, boat, passenger, ship
-✈ => ✈, aeroplane, airplane, flight
+✈ => ✈, aeroplane, airplane
+🛩 => 🛩, aeroplane, flight
 💺 => 💺, chair, seat
 🚁 => 🚁, helicopter, vehicle
 🚟 => 🚟, railway, suspension
