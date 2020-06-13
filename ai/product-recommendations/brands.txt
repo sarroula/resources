@@ -1439,3 +1439,24 @@ TOMS
 Genious Addiction
 Athlopaidia
 Lee Daren
+AMD
+Intel
+Gigabyte
+Cooler Master
+ASUS
+LogiLink
+PowerWalker
+Sandisk
+Xilence
+Corsair
+PGYTECH
+iBox
+Razer
+Logitech
+Kensington
+Motorola
+Acer
+Jabra
+DeLOCK
+Lindy
+D-Link
