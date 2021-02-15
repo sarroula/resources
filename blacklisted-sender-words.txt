@@ -394,3 +394,7 @@ Banking Sector
 CitiBank
 Citibank Cards
 SPOITIFY
+secure
+security
+US Bank
+USA BANK
